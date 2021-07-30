@@ -1,0 +1,38 @@
+.footer{
+    scroll-snap-align: start;
+}
+
+.upper{
+    width: 100%;
+    background-color: #5e67d9;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.social li{
+    margin-left: 15px;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+
+.social li:hover{
+    transform: scale(1.15);
+    cursor: pointer;
+    color:#dddff7;
+}
+
+.lower{
+    width: 100%;
+    background-color: #bdc1f0;
+    height: 150px;
+}

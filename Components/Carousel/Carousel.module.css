@@ -1,0 +1,14 @@
+.cover{
+    height: 100vh;
+    background-color: #E5E5E5;
+    width: 100%;
+}
+
+.legend{
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.heading{
+    color: #333b82;
+}
